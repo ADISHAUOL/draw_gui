@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">draw_app</string>
+    <string name="Paint" />
+    <string name="ok" />
+</resources>
